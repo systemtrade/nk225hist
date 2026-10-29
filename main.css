@@ -1,0 +1,159 @@
+/**--------------------------------------
+original css TEMPLATE GATE
+http://template.7gates.net/
+EDIT BY :
+--------------------------------------***/
+
+h1,h2,h3,h4,h5,h6{margin:0;padding:0;}
+img{border:none;}
+/*html *{
+	font-size:1em;
+}*/
+body{
+	margin:0;
+	padding:0;
+	background:#5af;
+	text-align:center;
+	font-size:1em;
+	}
+a:link{
+	color:#00c;
+}
+a:visited{
+	color:#00c;
+}
+#content{
+	margin:0 auto;
+	padding:0 auto;
+	width:780px;
+	background:#fff;
+	text-align:left;
+	
+}
+#header{
+	background:#5af;
+}
+#header h1{
+	font-size:80%;
+	font-weight:normal;
+	padding:8px 25px 0px 25px;
+	color:#fff;
+}
+.sitename{
+	font:30px bold;
+	margin:5px 25px 25px 25px;
+	color:#006;
+}
+.sitename a,.sitename a:visited{
+	text-decoration:none;
+	color:#006;
+}
+
+.navi{
+	list-style:none;
+	padding:0 0 0 40px;
+	margin:20px 0 0 0px;
+	height:30px;
+	overflow: hidden;
+}
+
+.navi li{
+	list-style: none;
+	margin: 0px 5px 0px 0px;
+	padding: 0px;
+	float: left;
+	display: block;
+	font-size:93%;
+}
+.navi li a,.navi li a:visited{
+	line-height:30px;
+	padding:0px 10px;
+	border:1px solid #ccc;
+	border-width:1px 1px 0px 1px;
+	background:#006;
+	margin: 0px;
+	display: block;
+	text-decoration:none;
+	color:#fff;
+}
+
+#header li a:hover{
+	background: #fc0;
+	color: #000;
+}
+
+#main{
+	margin:55px 25px 1em 25px;
+	border:1px solid #999;
+	text-align:left;
+	clear:both;
+}
+#main .kiji{
+	padding:0px 25px 15px 25px;
+}
+#main h2{
+	padding:15px 1em;
+	border-bottom:6px solid #006;
+	font-size:120%;
+	color:#006;
+}
+
+
+#main h3{
+	padding:4px 10px;
+	margin:1em 25px 10px 25px;
+	border-left:8px solid #006;
+	color:#006;
+}
+#main h4{
+	color:#f90;
+	margin:1em;
+}
+#main p{
+	margin:1em;
+	line-height:1.5;
+	font-size:0.9em;
+}
+#main blockquote{
+	border:1px dashed #ccc;
+	margin:1em;
+	line-height:1.5;
+	padding:1.5em;
+	font-size:0.9em;
+}
+#main ul{
+	margin-left:45px;
+}
+#footer{
+	margin:25px 25px 0px 25px;
+}
+.linkstaff{
+	padding:10px;
+	background:#ddd;
+	font-size:12px;
+	text-align:center;
+}
+.linkstaff li{
+	list-style:none;
+	display:inline;
+	margin:10px;
+	padding:10px;
+	font-size:12px;
+}
+.linkstaff li a,.linkstaff li a:visited{
+	color:#333;
+	text-decoration:none;
+}
+address{
+	margin-top:10px;
+	padding:5px 10px;
+	text-align:center;
+	font:12px normal;
+}
+.TGcopy{
+	position:relative;
+	text-align:right;
+	top:-20px;
+	outline:none;
+}
+
